@@ -1,0 +1,20 @@
+{
+    "name": "m4dn3ss-framework/m4dn3ss-framework",
+    "type": "project",
+    "require": {
+        "m4dn3ss-framework/base": "0.1.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Viacheslav Zhabonos",
+            "email": "vyacheslav0310@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "minimum-stability": "stable"
+}

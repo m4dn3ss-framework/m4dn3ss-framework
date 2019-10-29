@@ -1,0 +1,30 @@
+a.toggle-link {
+    color: #333;
+    font-weight:bold;
+}
+
+a.toggle-link:hover {
+    color:#666;
+    text-decoration: underline;
+    text-decoration-style: solid;
+}
+
+a.toggle-link:active {
+    color:#333;
+    text-decoration: underline;
+    text-decoration-style: solid;
+}
+
+a.definition-tooltip .tooltip .tooltip-inner {
+    max-width: 40%;
+    width: 40%;
+}
+
+.hidden {
+    display: none;
+    visibility: hidden;
+}
+
+.bold {
+    font-weight: bold;
+}
